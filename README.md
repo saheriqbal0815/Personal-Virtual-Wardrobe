@@ -8,12 +8,12 @@ This project showcases effective use of Composable functions, alert dialogs, ima
 
 🧑‍💻 Tech Stack
 
-Kotlin
-Jetpack Compose
-Jetpack Navigation
-State Management (mutableStateListOf)
-Material 3 UI Components
-Activity Result API (Camera / Gallery)
+- Kotlin
+- Jetpack Compose
+- Jetpack Navigation
+- State Management (mutableStateListOf)
+- Material 3 UI Components
+- Activity Result API (Camera / Gallery)
 
 📱 Features
 
