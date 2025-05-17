@@ -18,13 +18,13 @@ This project showcases effective use of Composable functions, alert dialogs, ima
 📱 Features
 
 Categorizes dresses into **Traditional** and **Western** collections.
-Displays dresses in a **scrollable card layout** with image, name, and description
-Allows users to **add new dresses** from the **camera** or **gallery**
-Uses **Jetpack Compose** for building reactive UIs
-Smooth screen navigation using **Jetpack Navigation Component**
-Clean UI with alert dialogs for user-friendly interactions
+Displays dresses in a **scrollable card layout** with image, name, and description.
+Allows users to **add new dresses** from the **camera** or **gallery**.
+Uses **Jetpack Compose** for building reactive UIs.
+Smooth screen navigation using **Jetpack Navigation Component**.
+Clean UI with alert dialogs for user-friendly interactions.
 
-- Prerequisites
+Prerequisites
 
 - Android Studio ladybug
 - Kotlin 1.8+
